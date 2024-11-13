@@ -1,2 +1,4 @@
 # USGA-Course
-Code for Python webscrape of USGA data and SQL Database
+Code for Python webscrape of USGA data and creation of SQL Database
+
+
